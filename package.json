@@ -1,0 +1,27 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "To-Do List Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanV723/ToDoList.git"
+  },
+  "keywords": [
+    "todolist"
+  ],
+  "author": "Sean Vaynshteyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanV723/ToDoList/issues"
+  },
+  "homepage": "https://github.com/SeanV723/ToDoList#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.0"
+  }
+}
